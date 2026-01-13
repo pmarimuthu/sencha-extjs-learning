@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.CDjunVez.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/grids.md","filePath":"components/grids.md"}'),s={name:"components/grids.md"};function r(n,a,c,d,i,p){return o(),t("div")}const f=e(s,[["render",r]]);export{_ as __pageData,f as default};

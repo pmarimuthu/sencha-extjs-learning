@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./chunks/framework.DuAUnOP7.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"advanced/custom-components.md","filePath":"advanced/custom-components.md"}'),a={name:"advanced/custom-components.md"};function n(c,s,r,m,d,p){return o(),t("div")}const f=e(a,[["render",n]]);export{i as __pageData,f as default};

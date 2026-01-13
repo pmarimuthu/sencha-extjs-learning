@@ -1,1 +1,0 @@
-import{_ as t,c as o,o as e}from"./chunks/framework.DuAUnOP7.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/toolbars.md","filePath":"components/toolbars.md"}'),a={name:"components/toolbars.md"};function s(r,n,c,p,m,l){return e(),o("div")}const i=t(a,[["render",s]]);export{d as __pageData,i as default};

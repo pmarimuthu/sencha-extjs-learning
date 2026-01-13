@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./chunks/framework.DuAUnOP7.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/windows.md","filePath":"components/windows.md"}'),n={name:"components/windows.md"};function s(a,c,r,d,i,p){return o(),t("div")}const f=e(n,[["render",s]]);export{_ as __pageData,f as default};

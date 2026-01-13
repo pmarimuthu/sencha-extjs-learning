@@ -1,0 +1,1 @@
+import{_ as e,c,o as t}from"./chunks/framework.CDjunVez.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"core-concepts/lifecycle.md","filePath":"core-concepts/lifecycle.md"}'),o={name:"core-concepts/lifecycle.md"};function r(a,s,n,l,i,p){return t(),c("div")}const d=e(o,[["render",r]]);export{_ as __pageData,d as default};

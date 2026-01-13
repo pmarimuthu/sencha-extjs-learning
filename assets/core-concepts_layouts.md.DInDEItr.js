@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.CDjunVez.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"core-concepts/layouts.md","filePath":"core-concepts/layouts.md"}'),a={name:"core-concepts/layouts.md"};function c(s,r,n,p,l,_){return o(),t("div")}const m=e(a,[["render",c]]);export{i as __pageData,m as default};
