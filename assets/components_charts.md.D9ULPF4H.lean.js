@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.DuAUnOP7.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/charts.md","filePath":"components/charts.md"}'),o={name:"components/charts.md"};function s(c,r,n,p,m,_){return a(),e("div")}const f=t(o,[["render",s]]);export{i as __pageData,f as default};
