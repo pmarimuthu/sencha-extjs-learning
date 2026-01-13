@@ -12,6 +12,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:pmarimuthu/sencha-extjs-learning.git main:gh-pages
+git push -f https://[[token]]@github.com/pmarimuthu/sencha-extjs-learning.git main:gh-pages
 
 cd -
