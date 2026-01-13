@@ -1,7 +1,7 @@
 export default {
   title: 'Learn Sencha ExtJS',
   description: 'Complete ExtJS Training',
-  base: '/sencha/',
+  base: '/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
